@@ -69,6 +69,7 @@
       <DependentUpon>coldStart.svc</DependentUpon>
     </Compile>
     <Compile Include="IColdService.cs" />
+    <Compile Include="IColdServiceREST.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
